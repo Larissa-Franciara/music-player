@@ -91,7 +91,7 @@ header .menu_side .playlist h4 .bi{
     display: none;
 }
 header .menu_side .playlist .active {
-    color: ##33a2f1f2;
+    color: #33a2f1f2;
 }
 header .menu_side .playlist .active span {
     display: flex;
